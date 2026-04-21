@@ -31,6 +31,11 @@ def calculator():
             continue
         else:
             break
-
             
 calculator()
+
+The goal of the calculator is to allow users to do simple addition, subtraction, multiplication and division aswell as giving them the
+option to round the output number and also allowing them to either continue doing more calculations or stopping the code effectively 
+turning it off.
+# A little explaination on the code written above 
+
