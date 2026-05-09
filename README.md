@@ -12,3 +12,5 @@ This will include my attempts at learning Python and hopefully proof of my progr
 [Grocery List](https://github.com/TheWarriorOfLiberation/Python101/blob/main/grocery_list.py)
 
 [Login Keychain](https://github.com/TheWarriorOfLiberation/Python101/blob/main/keychain.py)
+
+[Casino](https://github.com/TheWarriorOfLiberation/Python101/blob/main/casino.py)
