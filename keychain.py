@@ -33,6 +33,8 @@ def keychain():
     for platform in platforms:
         print(f"Your platform is {platform}")
 
+# Not working the way I want it to, still working on this.
+
 
 def main():
     login()
@@ -40,3 +42,4 @@ def main():
     keychain()
 
 main()
+
