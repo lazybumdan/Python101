@@ -22,19 +22,25 @@ def square_root():
     print("The square root of is: ", x ** (1 / 2))
 
 def main():
-    choice = input(" 1. Addition \n 2. Subtraction \n 3. Multiplication \n 4. Division \n 5. Squaring \n 6. Square Root \n Please enter your choice 1-6:  ")
-    if choice == "1":
-        addition()
-    elif choice == "2":
-        subtraction()
-    elif choice == "3":
-        multiply()
-    elif choice == "4":
-        division()
-    elif choice == "5":
-        squaring()
-    elif choice == "6":
-        square_root()
+    while True:
+       choice = input(" 1. Addition \n 2. Subtraction \n 3. Multiplication \n 4. Division \n 5. Squaring \n 6. Square Root \n Please enter your choice 1-6:  ")
+       if choice == "1":
+           addition()
+       elif choice == "2":
+           subtraction()
+       elif choice == "3":
+           multiply()
+       elif choice == "4":
+           division()
+       elif choice == "5":
+           squaring()
+       elif choice == "6":
+           square_root()
+       else:
+           print("Please enter a valid choice.")
+           continue
+       break
+
 
 
 if __name__ == "__main__":
