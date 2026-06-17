@@ -14,3 +14,5 @@ This will include my attempts at learning Python and hopefully proof of my progr
 [Login Keychain](https://github.com/TheWarriorOfLiberation/Python101/blob/main/keychain.py)
 
 [Casino](https://github.com/TheWarriorOfLiberation/Python101/blob/main/casino.py)
+
+[Pirates](https://github.com/lazybumdan/Python101/blob/main/pirates.py)
